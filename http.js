@@ -7,6 +7,8 @@ The general idea of this program is that a cup of coffee was placed in the cupho
 
 When the appropriate temperature is reached, the servo stops stirring, and initiates an http request to the web app (which then proceeded to text the user that their coffee was ready).
 
+To run the tessel, connect to the internet and type 'tessel http.js'
+
 */
 
 // Tessel IP IS 192.168.2.201 locally for hackathon
